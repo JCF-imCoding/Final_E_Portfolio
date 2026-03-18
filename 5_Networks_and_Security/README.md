@@ -1,6 +1,6 @@
 # 🔒 Networks & Security — Foundational Concepts & Applied Secure Coding
 
-This section highlights my understanding of essential networking and cybersecurity concepts gained throughout the BAS‑IT curriculum. While I have not yet taken the dedicated Networks & Security course, many classes reinforced security principles that I applied directly in this portfolio.
+This section highlights my understanding of essential networking and cybersecurity concepts gained throughout the BAS‑IT curriculum. While I have not yet taken the  Networks Security course (CS232), many classes reinforced security principles that I applied directly in this portfolio.
 
 A significant part of my security foundation comes from coursework such as **Data Security & Privacy**, where I studied the CIA Triad (Confidentiality, Integrity, Availability) and real-world data protection strategies. These principles are reflected in several of my programming projects, including PHP backend development, Python data processing, and secure front-end form handling.
 
