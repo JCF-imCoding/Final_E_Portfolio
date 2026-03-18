@@ -39,27 +39,27 @@ The backlog contained features such as:
 - API endpoints for CRUD operations  
 - UI improvements and layout changes  
 
-### 🟩 **Sprints / Iterations**
+### 🟩 **Team Sprints**
 The project progressed through several iterative sprint cycles:
 
-#### **Sprint 1 — UI Foundation**
+#### **UI Foundation**
 - Built the initial HTML structure  
 - Created forms for creating posts  
 - Added basic CSS styling  
 - Implemented simple DOM manipulation in JavaScript  
 
-#### **Sprint 2 — Local Data Handling**
+#### **Local Data Handling**
 - Implemented localStorage to mock saving posts  
 - Allowed quick demonstration of features without a backend  
 - Focused on rapid iteration and MVP functionality  
 
-#### **Sprint 3 — Backend Integration**
+#### **Backend Integration**
 - Added PHP scripts for create / edit / delete post operations  
 - Set up MySQL tables for storing post data  
 - Transitioned from localStorage to persistent database logic  
 - Integrated frontend fetch() calls with PHP backend endpoints  
 
-#### **Sprint 4 — Debugging & Feature Expansion**
+#### **Debugging & Feature Expansion**
 - Resolved file version conflicts  
 - Cleaned up inconsistent code  
 - Improved error-handling and data validation  
