@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f8f8f8;
+}
+
+h1 {
+    text-align: center;
+}
+
+.product-card {
+    background: #fff;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.product-card img {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.price {
+    font-size: 1.4em;
+    color: #333;
+    font-weight: bold;
+}
+
+.order-form {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.order-form input,
+.order-form button {
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    color: blue;
+}
